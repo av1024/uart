@@ -1,4 +1,10 @@
 Custom implementstion of USART for ATMega.
+==========================================
+
+Moved to bitbucket
+------------------
+
+https://bitbucket.org/av1024/uart
 
  - RS485 driving supported
  - Configuration defines for ATMega 88/168/328 but shoul work with other on USART0
